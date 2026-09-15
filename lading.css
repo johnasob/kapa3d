@@ -115,8 +115,8 @@ a {
     margin-inline: auto;
 
     padding:
-        36px 0
-        30px;
+        18px 0
+        15px;
 }
 
 .profile__header {
@@ -124,7 +124,7 @@ a {
     flex-direction: column;
     align-items: center;
 
-    margin-bottom: 28px;
+    margin-bottom: 10px;
 
     text-align: center;
 }
@@ -133,18 +133,17 @@ a {
     display: grid;
     place-items: center;
 
-    width: 112px;
-    height: 112px;
+    width: 200px;
+    height: 100px;
 
-    margin-bottom: 18px;
+    margin-bottom:0px;
 
     overflow: hidden;
 
-    background: var(--color-wine-900);
+    background:none;
 
     border-radius: 28px;
-
-    box-shadow: var(--shadow-md);
+    border: 2px solid var(--color-vine-900);
 }
 
 .profile__logo {
