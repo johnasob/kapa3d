@@ -8,7 +8,7 @@
 const KAPA_CONFIG = Object.freeze({
 
     links: {
-        instagram: "https://instagram.com/TU_USUARIO",
+        instagram: "https://instagram.com/KAPA3D_IMPRESIONES",
         tiktok: "https://tiktok.com/@TU_USUARIO",
         facebook: "https://facebook.com/TU_PAGINA",
 
@@ -19,7 +19,7 @@ const KAPA_CONFIG = Object.freeze({
 
     whatsapp: {
         countryCode: "57",
-        phone: "3000000000"
+        phone: "3337503514"
     }
 
 });
