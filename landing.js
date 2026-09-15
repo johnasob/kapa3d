@@ -12,7 +12,7 @@ const KAPA_CONFIG = Object.freeze({
         tiktok: "https://tiktok.com/@TU_USUARIO",
         facebook: "https://facebook.com/TU_PAGINA",
 
-        payment: "https://TU_LINK_DE_PAGO",
+        payment: "https://checkout.nequi.wompi.co/l/VPOS_O9dAIZ",
 
         catalog: "https://TU_LINK_DEL_CATALOGO"
     },
