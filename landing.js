@@ -9,12 +9,12 @@ const KAPA_CONFIG = Object.freeze({
 
     links: {
         instagram: "https://instagram.com/KAPA3D_IMPRESIONES",
-        tiktok: "https://tiktok.com/@TU_USUARIO",
-        facebook: "https://facebook.com/TU_PAGINA",
+        tiktok: "https://www.tiktok.com/@kapa3dimpresiones?_r=1&_t=ZS-99lPuYVXmsL",
+        facebook: "https://www.facebook.com/share/1EiEWFsETc/?mibextid=wwXIfr",
 
         payment: "https://checkout.nequi.wompi.co/l/VPOS_O9dAIZ",
 
-        catalog: "https://TU_LINK_DEL_CATALOGO"
+        /*catalog: "https://TU_LINK_DEL_CATALOGO"*/
     },
 
     whatsapp: {
