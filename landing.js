@@ -14,7 +14,7 @@ const KAPA_CONFIG = Object.freeze({
 
         payment: "https://checkout.nequi.wompi.co/l/VPOS_O9dAIZ",
 
-        /*catalog: "https://TU_LINK_DEL_CATALOGO"*/
+        catalog: "https://TU_LINK_DEL_CATALOGO"
     },
 
     whatsapp: {
